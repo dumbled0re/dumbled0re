@@ -15,6 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 ![Ritsushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumbled0re&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumbled0re&theme=radical&show_icons=true&layout=compact)](https://github.com/dumbled0re/github-readme-stats)
+-->
+
+<!-- レイアウト　-->
+<p>
+<a href="https://github.com/dumbled0re">
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=dumbled0re&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
+</a>
+<a href="https://github.com/dumbled0re">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbled0re&theme=radical&show_icons=true&layout=compact" />
+</a>
+</p>
+
+<!-- 草のグラフ -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dumbled0re&theme=radical)
+
+<!-- トロフィー -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=dumbled0re&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- 参考
+草のグラフ
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dumbled0re&theme=github_dark)
+スターやコミット時間
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dumbled0re&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dumbled0re&theme=github_dark)
+言語ごとのレポート
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dumbled0re&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dumbled0re&theme=github_dark)
+
+トロフィー https://github.com/ryo-ma/github-profile-trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=dumbled0re&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+ビュー数
+![](https://komarev.com/ghpvc/?username=dumbled0re&color=blue&style=plastic&label=profile+views) 2022/07/25 〜
+-->
