@@ -21,21 +21,17 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumbled0re&theme=radical&show_icons=true&layout=compact)](https://github.com/dumbled0re/github-readme-stats)
 -->
 
-<!-- レイアウト　-->
-<p>
-<a href="https://github.com/dumbled0re">
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=dumbled0re&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
-</a>
-<a href="https://github.com/dumbled0re">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbled0re&theme=radical&show_icons=true&layout=compact" />
-</a>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbled0re&theme=radical&show_icons=true&layout=compact" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=dumbled0re&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
 </p>
 
-<!-- 草のグラフ -->
+<!-- 草のグラフ
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dumbled0re&theme=radical)
+-->
 
 <!-- トロフィー -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=dumbled0re&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dumbled0re&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- 参考
 草のグラフ
