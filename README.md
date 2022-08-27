@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbled0re&theme=radical&show_icons=true&layout=compact" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbled0re&theme=radical&show_icons=true&hide=jupyter%20notebook&langs_count=5" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=dumbled0re&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
 </p>
 
