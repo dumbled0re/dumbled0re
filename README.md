@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi I'm dumbled0re 
 
 <!--
 **dumbled0re/dumbled0re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,28 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbled0re&theme=radical&show_icons=true&hide=jupyter%20notebook&langs_count=5" />
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=dumbled0re&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbled0re&layout=compact&theme=onedark&show_icons=true&hide=jupyter%20notebook&langs_count=5" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=dumbled0re&count_private=true&show_icons=true&theme=onedark&include_all_commits=true" />
 </p>
 
-<!-- 草のグラフ
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dumbled0re&theme=radical)
--->
-
-<!-- トロフィー -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=dumbled0re&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- 参考
-草のグラフ
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dumbled0re&theme=github_dark)
-スターやコミット時間
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dumbled0re&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dumbled0re&theme=github_dark)
-言語ごとのレポート
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dumbled0re&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dumbled0re&theme=github_dark)
-
-トロフィー https://github.com/ryo-ma/github-profile-trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=dumbled0re&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-ビュー数
-![](https://komarev.com/ghpvc/?username=dumbled0re&color=blue&style=plastic&label=profile+views) 2022/07/25 〜
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=dumbled0re&title=Commits,PullRequest,Repositories,Followers,Issues,Stars&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://raw.githubusercontent.com/dumbled0re/dumbled0re/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/dumbled0re/dumbled0re/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/dumbled0re/dumbled0re/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
