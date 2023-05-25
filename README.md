@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dumbled0re&title=Commits,PullRequest,Repositories,Followers,Issues,Stars&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 [![](https://raw.githubusercontent.com/dumbled0re/dumbled0re/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<!-- [![](https://raw.githubusercontent.com/dumbled0re/dumbled0re/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/dumbled0re/dumbled0re/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+[![](https://raw.githubusercontent.com/dumbled0re/dumbled0re/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/dumbled0re/dumbled0re/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
