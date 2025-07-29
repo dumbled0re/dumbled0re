@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/dumbled0re/dumbled0re/master/profile-summary-card-output/nightowl/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/dumbled0re/dumbled0re/master/profile-summary-card-output/nightowl/4-productive-time.svg)
-```
-
-    

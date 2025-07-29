@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/dumbled0re/dumbled0re/master/profile-summary-card-output/transparent/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/dumbled0re/dumbled0re/master/profile-summary-card-output/transparent/4-productive-time.svg)
-```
-
-    
