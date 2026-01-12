@@ -17,11 +17,3 @@
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=dumbled0re&bg_color=0d1117&color=ff6e96&line=79dafa&point=ffffff&area=true&hide_border=true" />
 
 </div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dumbled0re&color=ff6e96&style=flat-square)
-
-</div>
