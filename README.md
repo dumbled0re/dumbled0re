@@ -4,14 +4,6 @@
 
 </div>
 
-```python
-class AboutMe:
-    languages = ["Python", "SQL", "R"]
-    frameworks = ["PyTorch", "TensorFlow", "scikit-learn"]
-    tools = ["Pandas", "NumPy", "Docker", "AWS"]
-    interests = ["Machine Learning", "Deep Learning", "LLMs"]
-```
-
 ---
 
 ## 🛠️ Tech Stack
