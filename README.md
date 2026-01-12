@@ -25,6 +25,6 @@
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=dumbled0re&theme=darkhub&no-frame=true&column=7&margin-w=10" />
+<img src="https://github-trophies.vercel.app/?username=dumbled0re&theme=darkhub&no-frame=true&column=7&margin-w=10" />
 
 </div>
