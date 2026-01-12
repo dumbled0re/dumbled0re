@@ -1,6 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=150&section=header&text=dumbled0re&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=400&lines=Hi+%F0%9F%91%8B+I'm+dumbled0re)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=400&lines=Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
 
@@ -28,3 +30,5 @@
 <img src="https://github-trophies.vercel.app/?username=dumbled0re&theme=dracula&no-frame=true&column=7&margin-w=10" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer"/>
