@@ -104,38 +104,58 @@ me = DataWizard()
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dumbled0re&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbled0re&layout=compact&hide_border=true&title_color=A960FF&text_color=c9d1d9&bg_color=0d1117&hide=jupyter%20notebook,css,makefile&langs_count=8" />
-</div>
+<p align="center">
+  <a href="https://github.com/dumbled0re">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dumbled0re&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dumbled0re&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,css,makefile"/>
+  </a>
+</p>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=dumbled0re&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" />
-</div>
+<p align="center">
+  <a href="https://github.com/dumbled0re">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dumbled0re&theme=tokyonight" alt="Streak Stats"/>
+  </a>
+</p>
 
-<br>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dumbled0re&bg_color=0d1117&color=A960FF&line=A960FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/dumbled0re">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dumbled0re&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  </a>
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dumbled0re&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <a href="https://github.com/dumbled0re">
+    <img src="https://github-profile-trophy.vercel.app/?username=dumbled0re&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+  </a>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 Contribution Stats
 
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/dumbled0re/dumbled0re/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <a href="https://github.com/dumbled0re">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dumbled0re&theme=tokyonight" alt="Profile Details"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/dumbled0re">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dumbled0re&theme=tokyonight" alt="Repos per Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dumbled0re&theme=tokyonight" alt="Most Commit Language"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dumbled0re">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dumbled0re&theme=tokyonight" alt="Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dumbled0re&theme=tokyonight&utcOffset=9" alt="Productive Time"/>
+  </a>
+</p>
 
 ---
 
@@ -143,7 +163,7 @@ me = DataWizard()
 
 ### 💬 Random Dev Quote
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
