@@ -1,10 +1,7 @@
 # Hi 👋 I'm dumbled0re
 
-## 🧙‍♂️ Data Scientist | ML Engineer
-
 ```python
 class AboutMe:
-    role = "Data Scientist / ML Engineer"
     languages = ["Python", "SQL", "R"]
     frameworks = ["PyTorch", "TensorFlow", "scikit-learn"]
     tools = ["Pandas", "NumPy", "Docker", "AWS"]
